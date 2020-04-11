@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Potato Head</string>
+    <string name="intro_text">ini si kepala kentang</string>
+    <string name="shoes">Sepatu</string>
+    <string name="hat">Topi</string>
+    <string name="glasses">Kacamata</string>
+    <string name="eyebrows">Alis</string>
+    <string name="eyes">Mata</string>
+    <string name="mouth">Mulut</string>
+    <string name="ears">Kuping</string>
+    <string name="moustache">Kumis</string>
+    <string name="nose">Hidung</string>
+    <string name="arms">Tangan</string>
+    <string name="action_settings"></string>
+</resources>
