@@ -12,10 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/intro_text"
-        android:autoSizeTextType="uniform"
-        android:autoSizeStepGranularity="5sp"
-        android:autoSizeMinTextSize="40sp"
-        android:autoSizeMaxTextSize="100sp"/>
+        android:textSize="40sp"/>
 
 
     <RelativeLayout
